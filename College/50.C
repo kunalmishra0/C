@@ -1,4 +1,4 @@
-//create student database using struct
+//Create student database using struct
 #include <stdio.h>
 
 struct StudentInfo

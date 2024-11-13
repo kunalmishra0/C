@@ -1,4 +1,4 @@
-// Sorting Methods
+// Sorting Methods: Bubble Sort, Selection Sort & Insertion Sort
 
 #include <stdio.h>
 #include <conio.h>

@@ -1,3 +1,4 @@
+// GCD and LCM of 2 numbers using recursion
 #include <stdio.h>
 
 int gcd(int a, int b);
