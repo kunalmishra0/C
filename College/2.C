@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 void main(){
-	clrscr();
 	int x,y,z;
+	clrscr();
+	
 	printf("Enter 1st int value:\n");
-	scanf("%i",&x);
+	scanf("%d",&x);
 
 	printf("Enter 2nd int value:\n");
-	scanf("%i",&y);
+	scanf("%d",&y);
 
 	z=x+y;
 
